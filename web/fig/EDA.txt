@@ -1,0 +1,4 @@
+variableRelation.jpg-變數間散布圖
+variableCorr.jpg-變數間相關係數熱區圖
+variableIsNull.jpg-空值檢查圖
+boxDistribution.jpg-箱型圖 & 分布圖
